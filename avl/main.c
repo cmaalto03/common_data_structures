@@ -2,7 +2,7 @@
 Program: <avl_Tree>
 Author: <Connor Aalto>
 Date: <4/15/25>
-Purpose: The purpose of this program is to impliment an avl tree (see header file
+Purpose: The purpose of this program is to implement an avl tree (see header file
 for all functions). Correctly impliments insertion and deletion, and rebalances
 with rotations
 
